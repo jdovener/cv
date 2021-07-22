@@ -20,28 +20,36 @@ const tracks=[
 export default function Project() {
     return (
         <Layout>
-            <h3>1. Quote Generator</h3>
-            <p>An app that randomly selects from an amalgamation of my favourite quotes</p>
-            <div className="paddedDiv">
-                <a href="https://jdovener.github.io/quote-generator" target="_blank" rel="noreferrer">Click here to view live page</a>
+        <div>   
+            <div>
+                <h3>1. Quote Generator</h3>
+                <p>An app that randomly selects from an amalgamation of my favourite quotes.</p>
+                <div className="paddedDiv">
+                    <a href="https://jdovener.github.io/quote-generator" target="_blank" rel="noreferrer">Click here to view live page</a>
+                </div>
+                <div className="paddedDiv">
+                    <img src={quote} alt="Screenshot of Quote app"/>
+                </div>
             </div>
-            <div className="paddedDiv">
-                <img src={quote} alt="Screenshot of Quote app"/>
+            <div>
+                <h3>2. To-dos App</h3>
+                <p>An organisation app created in React.</p>
+                <div className="paddedDiv">
+                    <a href="https://jdovener.github.io/todo" target="_blank" rel="noreferrer">Click here to view live page</a>
+                </div>
+                <div className="paddedDiv">
+                    <img src={todo} alt="Screenshot of Todo app" />
+                </div>
             </div>
-            <h3>2. To-dos App</h3>
-            <p>An organisation app created in React</p>
-            <div className="paddedDiv">
-                <a href="https://jdovener.github.io/todo" target="_blank" rel="noreferrer">Click here to view live page</a>
+            <div>
+                <h3>3. Starline</h3>
+                <p>
+                    A video game I am composing the music for, 
+                    below are 3 of the currently available tracks.
+                </p>
+                <TrackList tracks={tracks}/>
             </div>
-            <div className="paddedDiv">
-                <img src={todo} alt="Screenshot of Todo app" />
-            </div>
-            <h3>3. Starline</h3>
-            <p>
-                A video game I am composing the music for, 
-                below are 3 of the currently available tracks.
-            </p>
-            <TrackList tracks={tracks}/>
+        </div> 
         </Layout>
     )
 }
