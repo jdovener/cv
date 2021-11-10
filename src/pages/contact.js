@@ -5,6 +5,11 @@ export default function Contact() {
   return (
     <Layout>
       <p>
+        Jimmy Dovener
+      </p>
+      <br>
+      </br>
+      <p>
         Email:<br></br>
         <a href="mailto:jdovener16@gmail.com">jdovener16@gmail.com</a>
       </p>
