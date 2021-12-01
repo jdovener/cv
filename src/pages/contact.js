@@ -5,8 +5,12 @@ export default function Contact() {
   return (
     <Layout>
       <p>
-        Jimmy Dovener
+        I am actively looking for a role as a Junior Software/Web Developer.
+        Please use the below information to contact me.
       </p>
+      <h2>
+        Jimmy Dovener
+      </h2>
       <br>
       </br>
       <p>
