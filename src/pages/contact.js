@@ -4,6 +4,7 @@ import Layout from "../components/layout"
 export default function Contact() {
   return (
     <Layout>
+      <br></br>
       <p>
         I am actively looking for a role as a Junior Software/Web Developer.
         Please use the below information to contact me.
