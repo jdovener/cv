@@ -35,7 +35,7 @@ export default function Project() {
                 </div>
                 <p>
                     This project enabled me to solidify my knowledge of using Media Queries, Web Hosting with a purchased domain and SEO. 
-                    <br></br>
+                    <br></br> 
                     It was also an excellent opportunity to gain experience communicating with a client.
                 </p>
             </div>
