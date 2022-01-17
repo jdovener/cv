@@ -12,7 +12,7 @@ export default function About() {
       <br></br>
       <p2>
         Currently living in Leeds, I aspire to become a Web Developer located in a nearby city. 
-        I am applying for entry-level jobs and engaging in self-lead programming studies in the meantime.
+        I am applying for entry-level jobs and engaging in self-led programming studies in the meantime.
       </p2>
       <br></br>
       <br></br>
