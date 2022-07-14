@@ -25,6 +25,9 @@ export default function Project() {
         <div>
         <br></br>
             <div>
+                <h1>QA Practical Project</h1>
+            </div>
+            <div>
                 <h3>1. Crimble Consulting</h3>
                 <p>My first freelance client project. The client needed a simple website built for his consultancy business.</p>
                 <div className="paddedDiv">
