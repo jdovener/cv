@@ -7,7 +7,7 @@ export default function Home() {
     <Layout>
       <h1>Welcome to JeemDev</h1>
       <p>
-        Web Development Portfolio
+        Web Development Portfolio pancakes
       </p>
       <br></br>
       <br></br>
