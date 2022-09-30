@@ -16,16 +16,20 @@ export default function About() {
       </p2>
       <br></br>
       <br></br>
+      <br></br>
       <p2>
        Tech Skills:
       <br></br>
       <br></br>
        Programming Languages: Python, HTML, CSS, Javascript.
       <br></br>
+      <br></br>
         Technologies: AWS, GCP, React.js, Jira, MySQL, Git, Jenkins, CLI, Docker, Ansible, Pytest.
+      <br></br>
       <br></br>
         Applications: Visual Studio Code, Webstorm, GitHub.
       </p2>
+      <br></br>
       <br></br>
       <br></br>
       <p2>
