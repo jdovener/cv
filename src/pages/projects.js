@@ -5,6 +5,8 @@ import todo from "../../static/todo.png"
 import quote from "../../static/quote.png"
 import gym from "../../static/gym.png"
 import crimble from "../../static/crimble.png"
+import qa1 from "../../static/qa1.png"
+import qa2 from "../../static/qa2.png"
 import "../style/index.scss";
 
 const tracks=[
@@ -68,7 +70,9 @@ export default function Project() {
                     <img src={qa2} alt="Screenshot of QAProject2"/>
                 </div>
                 <p>This project was an oppotunity to learn about Containerisation and Orchestration via Docker and Docker Swarm. 
-                    I was also able to learn about using Ansible as a Configuration Manager</p>
+                    I was also able to learn about using Ansible as a Configuration Manager
+                </p>
+                <p>Please click the above link for very detailed documentation.</p>
             </div>
             <br></br>   
             <div>
