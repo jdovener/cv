@@ -17,23 +17,35 @@ export default function About() {
       <br></br>
       <br></br>
       <br></br>
+      <h4>
+        Tech Skills:
+      </h4>
+      <br></br>
+      <br></br>
       <p2>
-       Tech Skills:
+        Programming Languages: 
+      <br></br>
+        Python, HTML, CSS, Javascript.
       <br></br>
       <br></br>
-       Programming Languages: Python, HTML, CSS, Javascript.
+        Technologies: 
+      <br></br>
+        AWS, GCP, React.js, Jira, MySQL, Git, Jenkins, CLI, Docker, Ansible, Pytest.
       <br></br>
       <br></br>
-        Technologies: AWS, GCP, React.js, Jira, MySQL, Git, Jenkins, CLI, Docker, Ansible, Pytest.
+        Applications: 
       <br></br>
-      <br></br>
-        Applications: Visual Studio Code, Webstorm, GitHub.
+        Visual Studio Code, Webstorm, GitHub.
       </p2>
       <br></br>
       <br></br>
       <br></br>
+      <h4>
+        My hobbies include: 
+      </h4>
+      <br></br>
       <p2>
-        My hobbies include: Languages, Programming, Health & Fitness, Music and Reading.
+        Languages, Programming, Health & Fitness, Music and Reading.
       </p2>
     </Layout>
   )
