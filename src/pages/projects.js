@@ -42,9 +42,37 @@ export default function Project() {
                     It was also an excellent opportunity to gain experience communicating with a client.
                 </p>
             </div>
+            <br></br>
+            <div>
+                <h3>2. QA Project 1 - Games Shop App</h3>
+                <p>This project required me to create an application of my choosing with multiple constraints. I chose to create a Games Shop database application.</p>
+                <div className="paddedDiv">
+                    <a href="https://github.com/jdovener/qa-project1#readme" target="_blank" rel="noreferrer">Click here to view project documentation</a>
+                </div>
+                <div className="paddedDiv">
+                    <img src={QAProject1} alt="Screenshot of QAProject1"/>
+                </div>
+                <p>The project had to have a front-end website with full CRUD functionality and utilise a relational database to store data persistently.
+                    New concepts I learnt during this project included unit testing with Pytest and using Jenkins as a build server.
+                </p>
+                <p>Please click the above link for very detailed documentation.</p>
+            </div>
+            <br></br>
+            <div>
+                <h3>3. QA Project 2 - Activitiy Generator App</h3>
+                <p>The project brief required me to create an application of my choosing which consists of four microservices. I chose to create an Activity Generator App</p>
+                <div className="paddedDiv">
+                    <a href="https://github.com/jdovener/QA-DevOps-Practical#readme" target="_blank" rel="noreferrer">Click here to view project documentation</a>
+                </div>
+                <div className="paddedDiv">
+                    <img src={QAProject2} alt="Screenshot of QAProject2"/>
+                </div>
+                <p>This project was an oppotunity to learn about Containerisation and Orchestration via Docker and Docker Swarm. 
+                    I was also able to learn about using Ansible as a Configuration Manager</p>
+            </div>
             <br></br>   
             <div>
-                <h3>2. Gym Progress Tracker</h3>
+                <h3>4. Gym Progress Tracker</h3>
                 <p>An app that will track strength training progression and compare with previous weeks. Work in progress.</p>
                 <div className="paddedDiv">
                     <img src={gym} alt="Screenshot of Gym Tracker"/>
@@ -53,7 +81,7 @@ export default function Project() {
             </div>
             <br></br>
             <div>
-                <h3>3. Quote Generator</h3>
+                <h3>5. Quote Generator</h3>
                 <p>An app that randomly selects from an amalgamation of my favourite quotes.</p>
                 <div className="paddedDiv">
                     <a href="https://jdovener.github.io/quote-generator" target="_blank" rel="noreferrer">Click here to view live page</a>
@@ -65,7 +93,7 @@ export default function Project() {
             </div>
             <br></br>
             <div>
-                <h3>4. To-dos App</h3>
+                <h3>6. To-dos App</h3>
                 <p>An organisation app created in React.</p>
                 <div className="paddedDiv">
                     <a href="https://jdovener.github.io/todo" target="_blank" rel="noreferrer">Click here to view live page</a>
@@ -77,7 +105,7 @@ export default function Project() {
             </div>
             <br></br>
             <div>
-                <h3>5. Starline</h3>
+                <h3>7. Starline</h3>
                 <p>
                     A video game I am composing the music for, 
                     below are 3 of the currently available tracks.

@@ -12,16 +12,19 @@ export default function About() {
       <br></br>
       <p2>
         Currently working as a Tech Specialist with QA, I am pursuring a deployment with one of their clients located in Manchester. 
-        I am engaging in self-led programming studies in the meantime. I aim to start a long-term career in the field of Software Development.
+        I aim to start a long-term career in the field of Software Development.
       </p2>
       <br></br>
       <br></br>
       <p2>
        Tech Skills:
       <br></br>
+      <br></br>
        Programming Languages: Python, HTML, CSS, Javascript.
       <br></br>
+      <br></br>
         Technologies: AWS, GCP, React.js, Jira, MySQL, Git, Jenkins, CLI, Docker, Ansible, Pytest.
+      <br></br>
       <br></br>
         Applications: Visual Studio Code, Webstorm, GitHub.
       </p2>
