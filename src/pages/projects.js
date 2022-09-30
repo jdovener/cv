@@ -50,7 +50,7 @@ export default function Project() {
                     <a href="https://github.com/jdovener/qa-project1#readme" target="_blank" rel="noreferrer">Click here to view project documentation</a>
                 </div>
                 <div className="paddedDiv">
-                    <img src={QAProject1} alt="Screenshot of QAProject1"/>
+                    <img src={qa1} alt="Screenshot of QAProject1"/>
                 </div>
                 <p>The project had to have a front-end website with full CRUD functionality and utilise a relational database to store data persistently.
                     New concepts I learnt during this project included unit testing with Pytest and using Jenkins as a build server.
@@ -65,7 +65,7 @@ export default function Project() {
                     <a href="https://github.com/jdovener/QA-DevOps-Practical#readme" target="_blank" rel="noreferrer">Click here to view project documentation</a>
                 </div>
                 <div className="paddedDiv">
-                    <img src={QAProject2} alt="Screenshot of QAProject2"/>
+                    <img src={qa2} alt="Screenshot of QAProject2"/>
                 </div>
                 <p>This project was an oppotunity to learn about Containerisation and Orchestration via Docker and Docker Swarm. 
                     I was also able to learn about using Ansible as a Configuration Manager</p>
