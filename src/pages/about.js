@@ -21,7 +21,6 @@ export default function About() {
         Tech Skills:
       </h4>
       <br></br>
-      <br></br>
       <p2>
         Programming Languages: 
       <br></br>
