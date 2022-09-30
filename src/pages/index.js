@@ -5,9 +5,9 @@ import "../style/index.scss";
 export default function Home() {
   return (
     <Layout>
-      <h1>Welcome to JeemDev</h1>
+      <h1>Welcome to JDev</h1>
       <p>
-        Web Development Portfolio pancakes
+        Web Development Portfolio
       </p>
       <br></br>
       <br></br>

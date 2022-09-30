@@ -6,7 +6,7 @@ export default function Contact() {
     <Layout>
       <br></br>
       <p>
-        I am actively looking for a role as a Junior Software/Web Developer.
+        I am actively looking for a role as a Junior Software Engineer/Developer.
         Please use the below information to contact me.
       </p>
       <h2>
@@ -20,7 +20,8 @@ export default function Contact() {
       </p>
       <br></br>
       <p>
-        Telephone:<br></br>
+        Telephone:
+      <br></br>
         07581018140
       </p>
     </Layout>
