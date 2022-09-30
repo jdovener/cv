@@ -22,9 +22,7 @@ export default function About() {
       <br></br>
        Programming Languages: Python, HTML, CSS, Javascript.
       <br></br>
-      <br></br>
         Technologies: AWS, GCP, React.js, Jira, MySQL, Git, Jenkins, CLI, Docker, Ansible, Pytest.
-      <br></br>
       <br></br>
         Applications: Visual Studio Code, Webstorm, GitHub.
       </p2>
