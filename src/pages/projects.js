@@ -25,7 +25,7 @@ export default function Project() {
         <div>
         <br></br>
             <div>
-                <h1>QA Practical Project</h1>
+                <h1>QA Practical Project </h1>
             </div>
             <div>
                 <h3>1. Crimble Consulting</h3>
